@@ -1,5 +1,6 @@
 ﻿# JAVA-Leetcode
 ﻿
+- git init
 - git pull origin main
 - git remote add origin https://github.com/Callitacodeitsmine/JAVA-Leetcode.git
 - git add .
